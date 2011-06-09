@@ -23,7 +23,7 @@ FractionTest.cppがそれらに対する単体テストです。
 
 gcc向けのもののみ用意してあります。
 
-(1) CppUnit（http://sourceforge.net/projects/cppunit/）をダウンロードし
+(1) CppUnit( http://sourceforge.net/projects/cppunit/ )をダウンロードし
     インストールします。configureスクリプトが同梱されています。
 (2) ダウンロードしたCppUnitのアーカイブにある「examples/money/MoneyApp.cpp」を、
     このアーカイブ（sapporocpp-osc2011-cppunit）のあるディレクトリに
